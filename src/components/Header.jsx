@@ -11,6 +11,12 @@ function Header() {
         <Link to="work" smooth={true} duration={500}>
           Work
         </Link>
+        <Link to="education" smooth={true} duration={500}>
+          Education
+        </Link>
+        <Link to="skills" smooth={true} duration={500}>
+          Skills
+        </Link>
         <Link to="projects" smooth={true} duration={500}>
           Projects
         </Link>

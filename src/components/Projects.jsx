@@ -45,10 +45,10 @@ function Projects() {
       </a>
       <p>
         Another one that&apos;s, well, not my best work. I was experimenting
-        with JavaFX—pretty new to me at the time—and ended up with something
-        that works but could definitely be improved. Still, I&apos;m proud of
-        it. I started with zero knowledge of JavaFX and ended up knowing a
-        little bit about JavaFX.
+        with JavaFX, something pretty new to me at the time, and ended up with
+        something that works but could definitely be improved. Still, I&apos;m
+        proud of it. I started with zero knowledge of JavaFX and ended up
+        knowing a little bit about JavaFX.
       </p>
       <div className="projects-content-row reverse">
         <ul>
