@@ -12,7 +12,7 @@ function Hero() {
   return (
     <div className="hero-container" id="hero">
       <img
-        src="/assets/images/hero_profile.jpg"
+        src="./assets/images/hero_profile.jpg"
         alt="A profile picture of me, Noah. :)"
         className={isVisible ? "visible" : ""}
       />

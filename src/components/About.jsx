@@ -20,7 +20,7 @@ function About() {
         </p>
         <img
           className="image-baby"
-          src="/assets/images/baby_me.png"
+          src="./assets/images/baby_me.png"
           alt="A picture of Noah as a baby."
         />
         <div className="image-baby-caption">Me as a baby boy.</div>
@@ -35,7 +35,7 @@ function About() {
         </p>
         <img
           className="image-teenage"
-          src="/assets/images/teenage_me.png"
+          src="./assets/images/teenage_me.png"
           alt="A picture of Noah as a teenager."
         />
         <div className="image-teenage-caption">Me as a graduating boy.</div>
@@ -58,7 +58,7 @@ function About() {
         </p>
         <img
           className="image-cat"
-          src="/assets/images/cassie_the_cat.jpg"
+          src="./assets/images/cassie_the_cat.jpg"
           alt="A picture of Cassie the cat."
         />
         <div className="image-cat-caption">
@@ -80,7 +80,7 @@ function About() {
         </p>
         <img
           className="image-mario"
-          src="/assets/images/mario_me.png"
+          src="./assets/images/mario_me.png"
           alt="A picture of Noah as Mario. Wahoo!"
         />
         <div className="image-mario-caption">Me as a Mario boy. Wahoo!</div>
